@@ -9,7 +9,7 @@ library(tidyverse)
 #######1) readr::read_csv
 
 #########10 times faster than base R
-###produce tibbles, dont munge the column or add the row names, dont 
+###produce tibbles, dont munge the column or add the row names, doesnt 
 ##convert charcater to factors
 
 read_csv("a,b,c
